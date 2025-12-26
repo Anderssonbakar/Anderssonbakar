@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Andersson bakar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #fff8f2;
+            color: #333;
+        }
+        header {
+            background-color: #d35400;
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        section {
+            padding: 30px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #d35400;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Andersson bakar</h1>
+    <p>Hemlagat, bakglädje och recept från köket</p>
+</header>
+
+<section>
+    <div class="card">
+        <h2>🍝 Mat</h2>
+        <p>Enkla och goda rätter för vardag och helg.</p>
+        <ul>
+            <li>Pasta & husmanskost</li>
+            <li>Snabba middagar</li>
+            <li>Vegetariska rätter</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>🧁 Bak</h2>
+        <p>Bakat med kärlek – klassiskt och nytt.</p>
+        <ul>
+            <li>Kanelbullar</li>
+            <li>Mjuk kaka</li>
+            <li>Bröd & frallor</li>
+        </ul>
+    </div>
+</section> 🍨 Superlyxig Vaniljglass – Gelato Deluxe (1 pint)
+
+Med vaniljpasta + lite extrakt • uppvärmning • silning
+
+⭐ Ingredienser (exakta mått)
+	•	250 ml vispgrädde
+	•	180 ml mjölk (3%)
+	•	2 msk glukossirap = ca 40 g
+	•	75 g socker
+	•	1/4 tsk salt
+	•	1 tsk vaniljpulver ≈ 2 g
+	•	1 tsk vaniljpasta ≈ 5 g
+	•	½ tsk vaniljextrakt ≈ 2,5 ml
+	•	½ skopa vanilj-proteinpulver ≈ 15 g
+
+⸻
+
+👨‍🍳 Instruktioner – Proffsversion
+
+1️⃣ Blanda basen
+	1.	Häll grädde + mjölk i en kastrull.
+	2.	Tillsätt socker, glukossirap och salt.
+	3.	Värm lätt tills allt nästan löst sig (ca 35–40°C).
+	4.	Ta av från värmen.
+	5.	Tillsätt vaniljpulver, vaniljpasta, vaniljextrakt och proteinpulver.
+	6.	Vispa tills allt är blandat.
+
+⸻
+
+2️⃣ Uppvärmning för silkeslen bas
+	•	Sätt tillbaka kastrullen på svag värme.
+	•	Värm till 40–50°C (fingervarmt), i 3–5 minuter.
+	•	Detta löser upp:
+✔ socker
+✔ proteinpulver
+✔ vanilj
+✔ glukossirap
+	•	Rör hela tiden.
+	•	Det får inte koka.
+
+⸻
+
+3️⃣ Sila basen (viktigt!)
+	•	Häll basen genom en finmaskig sil ned i en skål eller kanna.
+	•	Pressa lätt med en sked så endast klumparna stannar ovanför.
+
+👉 Resultat: en helt slät, glassbar-len bas.
+
+⸻
+
+4️⃣ Kyl basen
+	•	Ställ den silade basen i kylen tills den är helt kall (1–3 timmar).
+	•	Häll sedan i Ninja Creami-behållaren.
+
+⸻
+
+5️⃣ Frys pinten
+	•	Frys 12–24 timmar, helt plant.
+
+⸻
+
+6️⃣ Ninja Creami – Gelato
+	1.	Sätt in pinten i maskinen
+	2.	Välj GELATO
+	3.	Skrapa ner kanterna
+	4.	Kör 1–2 Re-Spin
+	5.	Om du vill ha den ännu krämigare:
+	•	Tillsätt 1–2 msk grädde eller mjölk
+	•	Kör en sista Re-Spin
+
+⸻
+
+7️⃣ Servering
+	•	Låt stå 1–2 minuter i rumstemperatur.
+	•	Nu är den superkrämig, lyxig och perfekt balanserad i vaniljsmak.
+
+⸻
+
+✅ Resultat
+	•	Zero klumpar
+	•	Silkeslen, glasstillverkare-kvalitet
+	•	Perfekt mild men rik vaniljprofil
+	•	Otroligt krämig Gelato-konsistens
+	•	Ingen isighet – bara ren, mjuk lyx
+
+
+<footer>
+    <p>© 2025 Andersson bakar</p>
+</footer>
+
+</body>
+</html>
